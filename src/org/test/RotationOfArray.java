@@ -14,6 +14,7 @@ public class RotationOfArray {
 		for (int k = 0; k < a.length; k++) {
 			System.out.println(a[k]);
 		}
+		System.out.println(" feat 1 sys");
 	}
 
 }
