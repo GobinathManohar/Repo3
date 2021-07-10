@@ -14,6 +14,9 @@ public class RotationOfArray {
 		for (int k = 0; k < a.length; k++) {
 			System.out.println(a[k]);
 		}
+		System.out.println("gh");
+		System.out.println("Bn");
+		System.out.println("jk");
 	}
 
 }
