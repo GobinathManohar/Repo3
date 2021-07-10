@@ -18,5 +18,6 @@ public static void main(String[] args) {
 	String rating="3";
 	String xpathLoc="//a[text()='"+data1+"']//ancestor::tr[@class='alternate   author-self status-publish iedit wpjb-unread']//child::span[@data-value='"+rating+"']";
 	ob.xpathClick(xpathLoc);
+	System.out.println("sys");
 }
 }
